@@ -1,0 +1,1 @@
+{"name":"Ticketing","short_name":"Ticketing","start_url":"/client","display":"standalone","background_color":"#e8ebf2","lang":"en","scope":"/client","description":"Help Desk Ticketing System for Hameem Group","icons":[{"src":"/assets/assigned.svg","sizes":"512x512","type":"image/svg"}],"theme_color":"#171717","orientation":"portrait"}

@@ -1,0 +1,21 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Eapproval
+build_property.RootNamespace = Eapproval
+build_property.ProjectDir = E:\Ticketing source code\ticketing Backed\Eapproval\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Ticketing source code\ticketing Backed\Eapproval
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Ticketing source code/ticketing Backed/Eapproval/Views/Main/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
